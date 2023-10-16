@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "sprint-15-l1",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/vercel": "^5.0.2",
-    "astro": "^3.3.0"
+    "astro": "^3.3.0",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0"
   }
 }
