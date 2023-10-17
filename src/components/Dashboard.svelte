@@ -167,7 +167,6 @@
 
 <style>
 	.page {
-		margin-right: calc(10% + 2rem);
 		height: 100vh;
 		font-size: 0.75rem;
 	}
