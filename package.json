@@ -1,5 +1,5 @@
 {
-  "name": "sprint-15-l1",
+  "name": "",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,9 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^5.0.2",
-    "astro": "^3.3.0",
-    "graphql": "^16.8.1",
-    "graphql-request": "^6.1.0"
+    "@astrojs/svelte": "^4.0.3",
+    "@supabase/supabase-js": "^2.38.1",
+    "astro": "^3.3.1",
+    "graphql": "^16.8.1"
   }
 }
