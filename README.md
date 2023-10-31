@@ -24,28 +24,28 @@ This website is used by the commentators of Ulti.TV. They can add & edit tournam
 
 <h2 id="characteristics">✨ Characteristics</h2>
 
-This project is build in Sveltekit. Sveltekit is configured with Vanilla JavaScript & CSS. There is no type checking enabled. Authentication & data is stored in Supabase and is fetched with the REST API and there will be an option to fetch it with GraphQL in the future.
+This project is build in Astro. Astro is configured to be able to run Svelte components to enable client side JavaScript. Texts & images is fetched from DatoCMS & data is stored in Supabase. DatoCMS uses GraphQL queries while Supabase uses it's own REST API. I would like to Supabase to run on GraphQL too in the future to have more consistency. The project runs on Bun. Bun is a new JavaScript runtime which claims to be 4 times faster than NodeJS.
 
 <h2 id="installation">📥 Installation</h2>
 
-Do you want to start this project locally? Then follow the next steps. NB! NodeJS must be installed to run npm commands. In the resources section there is a link to the NodeJS website
+Do you want to start this project locally? Then follow the next steps. NB! Bun must be installed to run bun commands. In the sources section there is a link to the Bun website
 
 1. Open your terminal. Make sure you are in the path of the project.
 ```bash
-path_to_the_project/fdnd-sprint-14-l1 %
+path_to_the_project/fdnd-sprint-15-l1 %
 ```
 
 3. Before you can start the application you must install all modules.
 ```bash
-npm install
+bun install
 ```
 
 3. When the installation is complete you can start the application with the following command.
 ```bash
-npm run dev
+bun run dev
 
 # Or when you want to open the browser directly with the correct URL.
-npm run dev --open
+bun run dev --open
 ```
 
 
