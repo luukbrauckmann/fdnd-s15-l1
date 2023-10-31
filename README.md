@@ -1,7 +1,7 @@
 <h1>
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luukbrauckmann/fdnd-s14-l1/assets/47314813/8525c7c2-09d4-4089-a1e1-6cf44bfad8fc" alt="ULTI.TV" height="100">
-      <img alt="logo" src="https://github.com/luukbrauckmann/fdnd-s14-l1/assets/47314813/4805fd5e-a5fa-4177-a3d8-8a6977fad32b" alt="ULTI.TV" height="100">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luukbrauckmann/sprint-15-l1/assets/47314813/db747413-fa0f-4a0e-b496-da812e118546">
+      <img alt="Commentary Source" src="https://github.com/luukbrauckmann/sprint-15-l1/assets/47314813/2e85c910-95bd-444c-8e65-caffbb6b2dc0">
     </picture>
 </h1>
 
